@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Job-listings-with-filtering/static/css/main.aa0ab8c7.css",
+    "main.js": "/Job-listings-with-filtering/static/js/main.2da008e2.js",
+    "static/js/787.76830907.chunk.js": "/Job-listings-with-filtering/static/js/787.76830907.chunk.js",
+    "index.html": "/Job-listings-with-filtering/index.html",
+    "main.aa0ab8c7.css.map": "/Job-listings-with-filtering/static/css/main.aa0ab8c7.css.map",
+    "main.2da008e2.js.map": "/Job-listings-with-filtering/static/js/main.2da008e2.js.map",
+    "787.76830907.chunk.js.map": "/Job-listings-with-filtering/static/js/787.76830907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0ab8c7.css",
+    "static/js/main.2da008e2.js"
+  ]
+}
